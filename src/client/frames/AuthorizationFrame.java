@@ -71,6 +71,7 @@ public class AuthorizationFrame extends JFrame implements ActionListener, KeyLis
 	}
 
 	private AuthorizationFrame() {
+		int i = 123;
 		// Настройка фрейма
 		setTitle("Оценка роста прибыли - Стартовая страница");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
